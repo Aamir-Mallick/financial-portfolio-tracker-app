@@ -1,0 +1,49 @@
+.AddStocksTitle {
+  margin: 10px auto;
+}
+.MyStocksTable {
+  margin: 10px auto;
+}
+
+th {
+  background-color: #308ccb;
+  width: 120px;
+  height: 50px;
+  color: white;
+}
+h2 {
+  width: 100%;
+  height: 70px;
+  background-color: #308ccb;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
+td {
+  background-color: whitesmoke;
+  width: 120px;
+  height: 50px;
+  color: black;
+}
+
+.AddStocksTitle {
+  width: 700px;
+  height: 200px;
+  margin: 30px auto;
+  background-color: wheat;
+}
+.AddStocksTitle p {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
+.StockButton {
+  width: 70px;
+  height: 30px;
+  border: 0px;
+  background-color: white;
+  margin: 10px;
+}
+.MyStocksTable tr td button {
+  background-color: red;
+}

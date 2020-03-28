@@ -1,0 +1,35 @@
+.AddStockForm {
+    width: 900px;
+    height: 300px;
+    
+    margin: 5px auto;
+    background-color: rgb(156, 212, 231);
+    position: fixed;
+    bottom: 10px;
+    left: 130px;
+}
+#noShares {
+    margin-left: 550px;
+}
+#buyPrice {
+    margin-left: 570px;
+}
+#buyDate {
+    margin-left: 572px;
+}
+#companyName {
+    margin-left: 550px;
+}
+#heading {
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.AddButton {
+    margin-left: 450px;
+    
+}
+#crossbtn {
+    margin-left: 873px;
+    margin-bottom: -2px;
+}
